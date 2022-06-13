@@ -1,0 +1,38 @@
+.container {
+  padding-top: 150px;
+  max-width: 1000px;
+}
+
+.title {
+  text-align: center;
+} 
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.light{
+  background-color: white;
+}
+
+.dark{
+  background-color: black;
+}
+
+#btn {
+  font-family: "Japanese 3017";
+}
+
+h1,
+h3,
+label {
+  color: orange;
+  font-family: "Japanese 3017";
+}
+#story {
+  display: none;
+}
+
+
+
